@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "data_sprt_layer.h": "c",
+        "scroll.h": "c",
+        "data_map_gm2.h": "c"
+    }
+}

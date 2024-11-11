@@ -1,0 +1,12 @@
+-mjwx
+-i F:\www\light\src/out/light.ihx
+-b _CODE = 0x4000
+-b _DATA = 0xc000
+-k F:\www\light\MSXgl\tools/sdcc/lib/z80
+-k F:\www\light\MSXgl\tools/sdcc/bin\..\lib\z80
+-l F:\www\light\src/out/msxgl.lib
+-l z80
+F:\www\light\src/out/crt0_rom32.rel
+F:\www\light\src/out/light.rel
+
+-e
